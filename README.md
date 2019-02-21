@@ -7,7 +7,7 @@ This is a feedreader testing project for udacity front-end web developer nanodeg
 ## How to run
 - Download the repository.
 - Open `index.html` file.
-- Click to check github hosted version [online](https://basil51.github.io/Feed-Reader-Testing/).
+- Click to check github hosted version [online](basil51.github.io/Feed-Reader-Testing/).
 
 # Project Overview
 
